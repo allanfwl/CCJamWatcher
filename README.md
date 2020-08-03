@@ -5,7 +5,7 @@
 
 ## 说明
 
-这里获取线程调用栈用是的[BSBacktraceLogger](https://github.com/bestswifter/BSBacktraceLogger)，感谢这位作者的代码，觉得不错的就给个star吧 ～
+这里获取线程调用栈用是的[BSBacktraceLogger](https://github.com/bestswifter/BSBacktraceLogger)，感谢这位作者开源了，觉得不错的就给个star吧 ～
 
 
 
